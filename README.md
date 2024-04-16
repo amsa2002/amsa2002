@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amsa</h1>
 <h3 align="center">A passionate Web developer from Tamilnadu</h3>
 
-- 🌱 I’m trained **MERN stack Developer**
+- 🌱 I’m a trained **MERN stack Developer**
 
 - 💬 Ask me about **Javascript, Html, Css, React, Nodejs**
 
